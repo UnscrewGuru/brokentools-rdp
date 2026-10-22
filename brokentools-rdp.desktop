@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=BrokenTools RDP
+GenericName=Remote Desktop Client
+Comment=Connect to a Windows computer using RDP
+Exec=brokentools-rdp %f
+Icon=brokentools-rdp
+Terminal=false
+Categories=Network;RemoteAccess;
+MimeType=application/x-rdp;
+Keywords=rdp;remote;desktop;windows;mstsc;
+StartupWMClass=brokentools-rdp
